@@ -1,11 +1,11 @@
 # NAME: OpenAI
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2023-11-17 10:50:45
-# DOMAIN: 1
+# UPDATED: 2023-12-13 11:21:45
+# DOMAIN: 2
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 12
-# TOTAL: 14
+# DOMAIN-SUFFIX: 20
+# TOTAL: 23
 DOMAIN,chatgpt.livekit.cloud
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
