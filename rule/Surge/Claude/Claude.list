@@ -1,0 +1,13 @@
+# NAME: Claude-Chat/Cowork/Code
+# AUTHOR: shmilyshirley
+# REPO: https://github.com/shmilyshirley/rule_script
+# UPDATED: 2026-03-11 21:20:01
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 8
+# TOTAL: 7
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,cdn.usefathom.com
